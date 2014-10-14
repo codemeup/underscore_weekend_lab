@@ -1,7 +1,7 @@
 {
   "name": "underbar",
   "version": "0.0.0",
-  "description": "",
+  "description": "For the second part of your long weekend lab, we'd like you to rewrite some underscore.js methods and tests that make them pass. The functions you will be implementing are:",
   "main": "index.js",
   "scripts": {
     "test": "mocha -R spec spec/test.js"
@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^1.9.2"
-  }
+    "chai": "^1.9.2",
+    "save": "0.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codemeup/underscore_weekend_lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codemeup/underscore_weekend_lab/issues"
+  },
+  "homepage": "https://github.com/codemeup/underscore_weekend_lab",
+  "devDependencies": {}
 }
